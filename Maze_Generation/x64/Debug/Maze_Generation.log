@@ -1,0 +1,5 @@
+﻿  Digger.cpp
+C:\Users\RileyHall\Documents\Procedural generation\Maze Generation\Maze_Generation\Digger.h(10,7): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\RileyHall\Documents\Procedural generation\Maze Generation\Maze_Generation\Digger.h(10,7): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\RileyHall\Documents\Procedural generation\Maze Generation\Maze_Generation\Digger.cpp(64): warning C4172: returning address of local variable or temporary: newCoords
+  Maze_Generation.vcxproj -> C:\Users\RileyHall\Documents\Procedural generation\Maze Generation\Maze_Generation\x64\Debug\Maze_Generation.exe
